@@ -11,4 +11,38 @@
      padding: 20px;
  }
 
- 
+ #navbar a :hover{
+    background-color: white;
+ }
+#home-desc img{
+        border-radius:20%;
+        margin: 0 auto;
+        height: 400px;
+        width: 400px;
+        display: block;
+        padding: 5%;
+    
+}
+#home-desc{
+    display: flex;
+    
+    text-align: center;
+    
+
+
+}
+.home-descl, .home-descr{
+    max-width: 40%;
+    justify-content: space-between;
+}
+.main{
+    height: 50px;
+    font-size: 4vh;
+}
+
+body{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
