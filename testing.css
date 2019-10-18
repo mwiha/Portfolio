@@ -1,0 +1,14 @@
+#navbar{
+    background-color: aquamarine;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+ #navbar a {
+     margin: 10px;
+     background-color: black;
+     padding: 20px;
+ }
+
+ 
