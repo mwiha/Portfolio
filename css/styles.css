@@ -1,0 +1,15 @@
+.nav-top{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+.nav-top a{
+        padding: 20px;
+}
+
+.nav-top :hover{
+        background-color:black;
+}
+        
+            
